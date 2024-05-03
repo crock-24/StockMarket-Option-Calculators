@@ -1,4 +1,4 @@
-# Stock market options calcultors
+# Stock market option calcultors
 
 The scripts in this repository were designed to help analyze various option techniques that can be used in the stock market
 
